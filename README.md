@@ -34,9 +34,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PremNPK">
-<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=premnpk&&theme=tokyonight" alt="premnpk" />
-&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=premnpk&show_icons=true&locale=en&theme=tokyonight" alt="premnpk" </p>
+<a href="https://github.com/Prem-npk">
+<img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-npk&&theme=tokyonight" alt="prem-npk" />
+&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem-npk&show_icons=true&locale=en&theme=tokyonight" alt="prem-npk" </p>
 <br>
 <br>
 
