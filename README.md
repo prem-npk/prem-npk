@@ -41,7 +41,7 @@
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=premnpk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="premnpk" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-npk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prem-npk" />
 
 
 
