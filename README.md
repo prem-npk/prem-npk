@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premnpk&label=Profile%20views&color=0e75b6&style=flat" alt="premnpk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prem_2498" target="blank"><img src="https://img.shields.io/twitter/follow/prem_2498?logo=twitter&style=for-the-badge" alt="prem_2498" /></a> </p><br>
+<p align="left"> <a href="https://twitter.com/prem_npk" target="blank"><img src="https://img.shields.io/twitter/follow/prem_2498?logo=twitter&style=for-the-badge" alt="prem_2498" /></a> </p><br>
 <b>
  I am a self taught web developer still learning new skills by creating new projects.</b>
 
