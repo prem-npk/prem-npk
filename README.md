@@ -42,6 +42,14 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-npk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prem-npk" />
+ 
+ #### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
 
 
 
