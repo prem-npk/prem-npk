@@ -20,7 +20,7 @@
 
 -------------------
 
-<h3 align="left"><u>Connect with me:<u/></h3>
+<h3 align="left"><u>🙋‍Connect with me:<u/></h3>
 
 <p align="left">
 <a href="https://twitter.com/prem_2498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prem_2498" height="30" width="40" /></a>
