@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;2️⃣Work until no longer need to introduce yourself.
 <br><br>
 
+-------------------
+
 <h3 align="left"><u>Connect with me:<u/></h3>
 
 <p align="left">
