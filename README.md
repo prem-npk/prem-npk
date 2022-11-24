@@ -7,7 +7,7 @@
 <b>
  I am a self taught web developer still learning new skills by creating new projects.</b>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 - 💬 Ask me about **Web Development**
 
